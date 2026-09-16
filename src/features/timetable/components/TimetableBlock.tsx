@@ -35,6 +35,9 @@ function TimetableBlockBase({
       <p className="truncate text-[10px] leading-tight opacity-80">
         {block.sectionLabel} · {block.room}
       </p>
+      <p className="truncate text-[10px] leading-tight opacity-70">
+        {block.instructor}
+      </p>
     </div>
   );
 }
