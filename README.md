@@ -6,6 +6,12 @@ Built as the take-home assessment for the **La Salle Computer Society — Fronte
 
 ---
 
+## Live Demo
+
+**[https://class-scheduling-system-mocha.vercel.app](https://class-scheduling-system-mocha.vercel.app)**
+
+---
+
 ## Tech Stack
 
 | Layer | Choice |
